@@ -1,0 +1,7 @@
+com/mcsf19a029/recyclerview/MainActivity.java
+ com.mcsf19a029.recyclerview.MainActivity
+com/mcsf19a029/recyclerview/BuildConfig.java
+ com.mcsf19a029.recyclerview.BuildConfig
+com/mcsf19a029/recyclerview/programmingAdapter.java
+ com.mcsf19a029.recyclerview.programmingAdapter
+ com.mcsf19a029.recyclerview.programmingAdapter$ProgrammingViewHolder
